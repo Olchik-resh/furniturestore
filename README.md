@@ -4,4 +4,4 @@
 Использованы препроцессоры для улучшения CSS. 
 Создан адаптивный дизайн на разные устройства.
 Использованы позиционирование Grid и Flexbox.
-[ссылку на деплой проекта.](https://interior-furniture-shop.netlify.app/)
+[ссылка на деплой проекта.](https://interior-furniture-shop.netlify.app/)
